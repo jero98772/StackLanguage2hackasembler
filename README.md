@@ -2,6 +2,10 @@
 
 A Rust-based virtual machine translator that converts VM code to Hack assembly language. This project includes both a command-line translator and a web interface for interactive use.
 
+
+![](https://raw.githubusercontent.com/jero98772/StackLanguage2hackasembler/refs/heads/main/pictures/2025-07-06-115102_1920x1080_scrot.png)
+
+
 ## Overview
 
 This VM translator is designed to work with the Hack computer platform, translating high-level VM commands into low-level assembly instructions. It supports all major VM command types including arithmetic operations, memory access, program flow control, and function calls.
